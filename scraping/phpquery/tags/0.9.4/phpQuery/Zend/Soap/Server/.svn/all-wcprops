@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/framework/!svn/ver/24744/standard/trunk/library/Zend/Soap/Server
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/24593/standard/trunk/library/Zend/Soap/Server/Exception.php
+END
+Proxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/framework/!svn/ver/24744/standard/trunk/library/Zend/Soap/Server/Proxy.php
+END

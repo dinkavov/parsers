@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/388/trunk/phpQuery/phpQuery/Zend/Json
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/388/trunk/phpQuery/phpQuery/Zend/Json/Exception.php
+END
+Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/388/trunk/phpQuery/phpQuery/Zend/Json/Encoder.php
+END
+Decoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/388/trunk/phpQuery/phpQuery/Zend/Json/Decoder.php
+END

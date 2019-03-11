@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/25144/standard/trunk/library/Zend/Mobile/Push/Message/Mpns
+END
+Raw.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Message/Mpns/Raw.php
+END
+Toast.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Message/Mpns/Toast.php
+END
+Tile.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/25144/standard/trunk/library/Zend/Mobile/Push/Message/Mpns/Tile.php
+END

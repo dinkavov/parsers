@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 74
+Zend http://framework.zend.com/svn/framework/standard/trunk/library/Zend/
+
+END

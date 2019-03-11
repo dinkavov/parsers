@@ -1,0 +1,22 @@
+* {
+    -webkit-transition: top 1s ease-out 0.5s;
+    -moz-transition: top 1s ease-out 0.5s;
+    -o-transition: top 1s ease-out 0.5s;
+    transition: top 1s ease-out 0.5s;
+}
+
+main {
+    padding-top: 5%;
+}
+
+form, .result {
+    border: 1px solid #d6d6d6;
+}
+
+.result {
+    display: none;
+}
+
+img {
+    width: 100%;
+}

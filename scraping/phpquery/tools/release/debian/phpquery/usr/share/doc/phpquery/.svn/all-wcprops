@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/383/tools/release/debian/phpquery/usr/share/doc/phpquery
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/383/tools/release/debian/phpquery/usr/share/doc/phpquery/copyright
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/383/tools/release/debian/phpquery/usr/share/doc/phpquery/README.Debian
+END
+changelog.gz
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/383/tools/release/debian/phpquery/usr/share/doc/phpquery/changelog.gz
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/390/tags/0.9.5/test-cases
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test.html
+END
+test_arrayaccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_arrayaccess.php
+END
+test_manipulation.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_manipulation.php
+END
+test_2.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_2.php
+END
+test_4.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_4.php
+END
+test_selectors.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_selectors.php
+END
+document_types.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/390/tags/0.9.5/test-cases/document_types.php
+END
+test_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_insert.php
+END
+test_5.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_5.php
+END
+test_events.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_events.php
+END
+run.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/390/tags/0.9.5/test-cases/run.php
+END
+test_wrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_wrap.php
+END
+test_attr.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_attr.php
+END
+test_replace.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_replace.php
+END
+test_manual.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_manual.php
+END
+test_document.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_document.php
+END
+test_multidoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_multidoc.php
+END
+test_webbrowser.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_webbrowser.php
+END
+test_ajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_ajax.php
+END
+xpath.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/390/tags/0.9.5/test-cases/xpath.php
+END
+test_php.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_php.php
+END
+test_scripts.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_scripts.php
+END
+test_charset.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_charset.php
+END
+test_callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/390/tags/0.9.5/test-cases/test_callback.php
+END

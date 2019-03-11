@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/355/branches/dev/test-cases/document-types
+END
+document-utf8-nocharset.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-utf8-nocharset.xhtml
+END
+document-iso88592.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-iso88592.xhtml
+END
+document-utf8-nocharset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-utf8-nocharset.xml
+END
+document-iso88592.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-iso88592.xml
+END
+document-utf8.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/217/branches/dev/test-cases/document-types/document-utf8.php
+END
+document-iso88592.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-iso88592.html
+END
+document-utf8-nocharset.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-utf8-nocharset.html
+END
+document-utf8.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/207/branches/dev/test-cases/document-types/document-utf8.xhtml
+END
+document-fragment-utf8.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-fragment-utf8.xhtml
+END
+document-utf8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-utf8.xml
+END
+document-fragment-utf8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-fragment-utf8.xml
+END
+document-utf8.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/355/branches/dev/test-cases/document-types/document-utf8.html
+END
+document-iso88592-nocharset.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-iso88592-nocharset.xhtml
+END
+document-fragment-utf8.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-fragment-utf8.html
+END
+document-iso88592-nocharset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-iso88592-nocharset.xml
+END
+document-iso88592-nocharset.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/202/branches/dev/test-cases/document-types/document-iso88592-nocharset.html
+END

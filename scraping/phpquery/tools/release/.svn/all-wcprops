@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/391/tools/release
+END
+package-pear
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/383/tools/release/package-pear
+END
+package-deb
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/383/tools/release/package-deb
+END
+trunk-merge-with-dev
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/383/tools/release/trunk-merge-with-dev
+END
+api-reference
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/383/tools/release/api-reference
+END
+onefile.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/383/tools/release/onefile.php
+END
+package-rpm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/383/tools/release/package-rpm
+END
+release-tag
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/391/tools/release/release-tag
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/391/tools/release/release.sh
+END
+package.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/383/tools/release/package.xml
+END

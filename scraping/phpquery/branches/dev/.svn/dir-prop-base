@@ -1,0 +1,17 @@
+K 13
+svn:externals
+V 58
+api-reference http://phpquery.googlecode.com/svn/docs/api
+
+K 10
+svn:ignore
+V 63
+sandbox.php
+sandbox
+.cache
+.project
+.buildpath
+.settings
+tools
+
+END

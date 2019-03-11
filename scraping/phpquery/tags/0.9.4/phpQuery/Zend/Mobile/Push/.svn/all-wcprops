@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/framework/!svn/ver/25154/standard/trunk/library/Zend/Mobile/Push
+END
+Mpns.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/25008/standard/trunk/library/Zend/Mobile/Push/Mpns.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Exception.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Interface.php
+END
+Apns.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/25144/standard/trunk/library/Zend/Mobile/Push/Apns.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Abstract.php
+END
+Gcm.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/framework/!svn/ver/25144/standard/trunk/library/Zend/Mobile/Push/Gcm.php
+END

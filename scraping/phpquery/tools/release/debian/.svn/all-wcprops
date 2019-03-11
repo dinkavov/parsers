@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/383/tools/release/debian
+END
+phpquery.substvars
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/383/tools/release/debian/phpquery.substvars
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/383/tools/release/debian/copyright
+END
+changelogr
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/383/tools/release/debian/changelogr
+END
+phpquery.default.ex
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/383/tools/release/debian/phpquery.default.ex
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/383/tools/release/debian/README.Debian
+END
+menu.ex
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/383/tools/release/debian/menu.ex
+END
+init.d.lsb.ex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/383/tools/release/debian/init.d.lsb.ex
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/383/tools/release/debian/control
+END
+watch.ex
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/383/tools/release/debian/watch.ex
+END
+emacsen-remove.ex
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/383/tools/release/debian/emacsen-remove.ex
+END
+manpage.xml.ex
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/383/tools/release/debian/manpage.xml.ex
+END
+manpage.1.ex
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/383/tools/release/debian/manpage.1.ex
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/383/tools/release/debian/compat
+END
+manpage.sgml.ex
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/383/tools/release/debian/manpage.sgml.ex
+END
+emacsen-startup.ex
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/383/tools/release/debian/emacsen-startup.ex
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/383/tools/release/debian/changelog
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/383/tools/release/debian/docs
+END
+emacsen-install.ex
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/383/tools/release/debian/emacsen-install.ex
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/383/tools/release/debian/rules
+END
+postinst.ex
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/383/tools/release/debian/postinst.ex
+END
+cron.d.ex
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/383/tools/release/debian/cron.d.ex
+END
+preinst.ex
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/383/tools/release/debian/preinst.ex
+END
+postrm.ex
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/383/tools/release/debian/postrm.ex
+END
+init.d.ex
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/383/tools/release/debian/init.d.ex
+END
+prerm.ex
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/383/tools/release/debian/prerm.ex
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/383/tools/release/debian/dirs
+END
+files
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/383/tools/release/debian/files
+END
+phpquery.doc-base.EX
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/383/tools/release/debian/phpquery.doc-base.EX
+END

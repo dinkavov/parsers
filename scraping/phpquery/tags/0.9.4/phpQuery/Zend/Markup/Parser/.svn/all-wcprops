@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/framework/!svn/ver/25156/standard/trunk/library/Zend/Markup/Parser
+END
+ParserInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/24593/standard/trunk/library/Zend/Markup/Parser/ParserInterface.php
+END
+Bbcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/24593/standard/trunk/library/Zend/Markup/Parser/Bbcode.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/framework/!svn/ver/24593/standard/trunk/library/Zend/Markup/Parser/Exception.php
+END

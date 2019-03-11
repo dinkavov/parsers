@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/25284/standard/trunk/library/Zend/Service/WindowsAzure
+END
+SessionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/24593/standard/trunk/library/Zend/Service/WindowsAzure/SessionHandler.php
+END
+Storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/24697/standard/trunk/library/Zend/Service/WindowsAzure/Storage.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/24593/standard/trunk/library/Zend/Service/WindowsAzure/Exception.php
+END

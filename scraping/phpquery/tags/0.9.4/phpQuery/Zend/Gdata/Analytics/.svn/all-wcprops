@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/25023/standard/trunk/library/Zend/Gdata/Analytics
+END
+AccountEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/25023/standard/trunk/library/Zend/Gdata/Analytics/AccountEntry.php
+END
+DataQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/framework/!svn/ver/25023/standard/trunk/library/Zend/Gdata/Analytics/DataQuery.php
+END
+AccountFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/24682/standard/trunk/library/Zend/Gdata/Analytics/AccountFeed.php
+END
+AccountQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/25023/standard/trunk/library/Zend/Gdata/Analytics/AccountQuery.php
+END
+DataEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/framework/!svn/ver/25023/standard/trunk/library/Zend/Gdata/Analytics/DataEntry.php
+END
+DataFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/24682/standard/trunk/library/Zend/Gdata/Analytics/DataFeed.php
+END

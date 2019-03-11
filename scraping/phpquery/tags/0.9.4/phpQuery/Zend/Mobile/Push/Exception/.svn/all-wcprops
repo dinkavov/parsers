@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Exception
+END
+DeviceQuotaExceeded.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Exception/DeviceQuotaExceeded.php
+END
+InvalidPayload.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Exception/InvalidPayload.php
+END
+QuotaExceeded.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Exception/QuotaExceeded.php
+END
+InvalidRegistration.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Exception/InvalidRegistration.php
+END
+InvalidTopic.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Exception/InvalidTopic.php
+END
+InvalidToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Exception/InvalidToken.php
+END
+InvalidAuthToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Exception/InvalidAuthToken.php
+END
+ServerUnavailable.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24687/standard/trunk/library/Zend/Mobile/Push/Exception/ServerUnavailable.php
+END

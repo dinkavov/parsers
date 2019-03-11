@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/391/tools
+END
+pear-server-release-howto
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/391/tools/pear-server-release-howto
+END
+zend.sh
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/383/tools/zend.sh
+END
+zend-update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/391/tools/zend-update.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/383/tools/README
+END
+pear-server-publish
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/391/tools/pear-server-publish
+END
